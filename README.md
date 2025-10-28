@@ -454,7 +454,7 @@ classDiagram
 ### 1. Cloner le Projet
 
 ```bash
-git clone https://github.com/HamzaBraik01/TeleExpertiseJEE
+git clone https://github.com/mohammedelmostaine/tele-expertise-medicale
 cd TeleExpertiseJEE
 ```
 
@@ -859,6 +859,6 @@ Si vous découvrez une vulnérabilité de sécurité, veuillez envoyer un email 
 
 **⭐ Si ce projet vous aide, n'hésitez pas à lui donner une étoile ! ⭐**
 
-Made with ❤️ and ☕ by HAMZA BRAIK
+Made with ❤️ and ☕ by MOHAMMED ELMOSTAINE
 
 </div>
